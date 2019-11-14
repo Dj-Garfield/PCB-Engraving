@@ -38,7 +38,7 @@ X offset: 	mm
 
 Y offset: 	mm
 
-# Contour
+## Contour
 
 Count: 	1
 
