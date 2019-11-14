@@ -12,5 +12,7 @@ A4988
 The softwares :
 
 PCB Design      => Sprint Layout 6
+
 GCODE generator => https://carbide3d.com/apps/pcb/
+
 GRBL Controler  => https://grbl-controller.software.informer.com/download/ ( Working on Linux With Wine )
