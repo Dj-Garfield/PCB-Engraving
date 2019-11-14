@@ -1,9 +1,9 @@
-## Edition du Layout :
+# Edition du Layout :
 
 Units
 mm
 
-# Material size
+## Material size
 
 Board Size
 
@@ -16,10 +16,12 @@ Thickness (Z): 	mm
 X/Y origin position
 
 o--o
+
 |  |
+
 x--o
 
-Flat surface
+## Flat surface
 Mill flat surface Checked
 
 Tool: 	
@@ -36,7 +38,7 @@ X offset: 	mm
 
 Y offset: 	mm
 
-Contour
+# Contour
 
 Count: 	1
 
