@@ -11,7 +11,7 @@ A4988
 
 The softwares :
 
-PCB Design      => Sprint Layout 6 https://www.lextronic.fr/logiciel-sprint-layout-6-0-82.html
+PCB Design      => Sprint Layout 6 https://www.lextronic.fr/logiciel-sprint-layout-6-0-82.html ( Working on Linux With Wine )
 
 GCODE generator => Carbide3D Web Site https://carbide3d.com/apps/pcb/
 
