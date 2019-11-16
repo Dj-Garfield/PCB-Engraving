@@ -46,7 +46,7 @@ Tool: 	CUSTOM
 
 Tip diameter: 0.100	mm
 
-Angle: 30	°
+Angle: 30	° ( to be ordered : 90° 0.1 or Helicoid 0.1 bit as watched on a tuto : https://www.youtube.com/watch?v=v0zQjpMuOWc )
 
 Depth (Z): 0.05	mm
 = surface diameter: 0.127	mm
